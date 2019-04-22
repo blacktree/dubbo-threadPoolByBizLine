@@ -1,0 +1,2 @@
+# dubbo-threadPoolByBizLine
+基于业务线进行限流的dubbo线程池插件，主要是为了掌握dubbo的线程模型实现
